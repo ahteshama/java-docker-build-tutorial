@@ -7,7 +7,7 @@
   <groupId>com.miguno</groupId>
   <artifactId>java-docker-build</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.1</version>
   <name>java-docker-build</name>
 
   <licenses>
